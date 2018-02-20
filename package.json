@@ -1,0 +1,19 @@
+{
+  "name": "plugin-sample",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keshavkatwe/plugin-sample.git"
+  },
+  "author": "“Keshav <“keshav.katwe@gmail.com”> (http://keshavkatwe.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keshavkatwe/plugin-sample/issues"
+  },
+  "homepage": "https://github.com/keshavkatwe/plugin-sample#readme"
+}
